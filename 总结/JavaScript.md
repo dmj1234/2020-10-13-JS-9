@@ -5,6 +5,7 @@
 1. 方式1 函数声明方式 function 关键字 (命名函数)
 
    ```js
+   
    function fn(){}
    ```
 
